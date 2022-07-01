@@ -4,3 +4,8 @@
 git add someNotes.txt
 git commit -S -m "Adding a someNotes file to new_branch"
 
+git config advice.useCoreFSMonitorConfig false
+
+git push -u origin main
+
+git pull  https://github.com/robdeacon/ftpuploader
