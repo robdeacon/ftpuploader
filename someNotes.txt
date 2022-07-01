@@ -1,0 +1,6 @@
+
+
+
+git add someNotes.txt
+git commit -S -m "Adding a someNotes file to new_branch"
+
